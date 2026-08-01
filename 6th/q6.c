@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main() {
+    int n, i, j, duplicate = 0;
+
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
+
+    int a[n];
+
+    printf("Enter %d numbers:\n", n);
+    for(i = 0; i < n; i++) {
+        scanf("%d", &a[i]);
+    }
+
+    for(i = 0; i < n - 1; i++) {
+        for(j = i + 1; j < n; j++) {
+            if(a[i] == a[j]) {
+                duplicate = 1;
+                printf("Duplicate found: %d\n", a[i]);
+                return 0;
+            }
+        }
+    }
+
+    if(!duplicate)
+        printf("No duplicates found.\n");
+
+    return 0;
+}
