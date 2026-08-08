@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.obj
+
+# Build directories
+bin/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary/generated benchmark output
+results/tmp/
+results/generated/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp

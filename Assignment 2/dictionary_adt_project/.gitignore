@@ -1,0 +1,9 @@
+dictionary_benchmark
+dictionary_benchmark.exe
+*.o
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
