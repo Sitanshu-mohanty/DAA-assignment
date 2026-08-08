@@ -51,3 +51,4 @@
 - The optimized bubble sort terminates early if the array becomes sorted before completing all passes, reducing the number of comparisons.
 - The normal bubble sort always performs all `n - 1` passes, resulting in more comparisons even when the array is already sorted.
 - For random data, both algorithms have an average time complexity of **O(n²)**, but the optimized version is generally more efficient due to early termination.
+- <img width="1536" height="1024" alt="IMG-20260802-WA0003" src="https://github.com/user-attachments/assets/b861a478-e96b-4de5-9fc9-8bd992735350" />
