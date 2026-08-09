@@ -1,6 +1,4 @@
-# Merge Sort vs. Modified 3-Way Merge Sort
-
-A reproducible, GitHub-ready solution to the assignment:
+# Merge Sort vs. Modified 3-Way Merge 
 
 > Divide the input array into thirds rather than halves, recursively
 > sort each third, and finally combine the results using a three-way
