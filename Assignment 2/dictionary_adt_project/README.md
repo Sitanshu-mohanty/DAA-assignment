@@ -198,8 +198,6 @@ Actual nanosecond values depend on CPU, compiler, operating system, cache behavi
 
 ## Submission note
 
-For a college submission, the most important files are:
-
 - `src/dictionary_benchmark.c` — C implementation and benchmark
 - `results/benchmark.csv` — measured data
 - `graphs/*.png` — generated plots
