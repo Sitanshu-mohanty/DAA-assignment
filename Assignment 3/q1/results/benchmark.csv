@@ -1,0 +1,6 @@
+n,binary_comparisons,ternary_comparisons
+100,7,8
+1000,10,12
+10000,14,17
+100000,17,21
+1000000,20,25
