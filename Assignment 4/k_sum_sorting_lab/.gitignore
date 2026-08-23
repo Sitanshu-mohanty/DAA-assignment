@@ -1,0 +1,10 @@
+# Compiled executable
+sorting
+sorting.exe
+
+# Object files
+*.o
+
+# IDE/editor files
+.vscode/
+.idea/
