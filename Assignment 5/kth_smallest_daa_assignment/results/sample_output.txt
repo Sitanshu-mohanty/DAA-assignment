@@ -1,0 +1,4 @@
+Enter number of elements: 8
+Enter the elements:
+Enter k (1 for smallest): 4
+The 4th smallest element is: 7

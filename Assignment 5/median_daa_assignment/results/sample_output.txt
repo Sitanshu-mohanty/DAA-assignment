@@ -1,0 +1,3 @@
+Enter number of elements: 7
+Enter 7 numbers:
+Median = 7.00

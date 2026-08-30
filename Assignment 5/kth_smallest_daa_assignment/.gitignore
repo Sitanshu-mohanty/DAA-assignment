@@ -1,0 +1,5 @@
+# Compiled C programs
+*.exe
+*.out
+kth_smallest_quickselect
+kth_smallest_sorting
